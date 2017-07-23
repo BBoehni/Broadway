@@ -20,19 +20,28 @@ p {
 }
 #Menu {
   background-image: url('../Resources/pictures/the-flatiron-building.png');
+  color: white;
 }
 nav {
   font-size: 18px;
   color: white;
   line-height: 180%;
 }
+a {
+  color: white;
+}
 footer {
   background-color: dimgray;
   color: white;
+  text-align: left;
 }
 #Designed {
   font-size: 23px;
   font-style: bold;
   color: white;
   background-image: url('../Resources/pictures/the-flatiron-building.png');
+}
+#Copyright {
+  font-size: 11px;
+  color: white;
 }
